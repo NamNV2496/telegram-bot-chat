@@ -1,0 +1,6 @@
+botChatExample:
+  bot:
+    username: ${username}
+    token: ${token}
+    bot-route-packages:
+      - {package}
